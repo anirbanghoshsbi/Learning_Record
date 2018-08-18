@@ -1,6 +1,4 @@
-**Date : 18/08/2018
-
-**Time : 23:04
+**Date : 18/08/2018  Time : 23:04
 
 **Things I worked on :** 
 1. Simple sklearn/keras code to convert categorical data to OHE.Updated in Github.
