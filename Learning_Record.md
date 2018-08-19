@@ -13,4 +13,15 @@
 2. Check for replies of queries on udemy and appliedai.com
 3. Revise all these topics on 26/08/2018.
 
+**Date : 19/08/2018  Time : 21:59
 
+**Things I worked on :** 
+1. List Comprehension (gotm more doubts than solutions)
+2. Worked on dataanalytics with Python completed till  vectorization (to do broadcasting) on datasciencewithpython.ipynb
+3. Worked on linked list , arrays , queues and stacks along with binary trees and tree traversal , sorting techniques.
+4. Read about transfer learning , project to code a transfer learning on real dataset.
+.
+
+**To Remember :**
+1. List Comprehension : understand
+2.Revise all these topics on 27/08/2018.
