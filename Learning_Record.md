@@ -25,3 +25,19 @@
 **To Remember :**
 1. List Comprehension : understand
 2.Revise all these topics on 27/08/2018.
+
+
+
+**Date : 21/08/2018  Time : 23:44
+
+**Things I worked on :** 
+1. Worked on multi-class multi label Classification image classification problem (use of binary cross entropy :as one-vs-rest classification)
+2. Worked on data analysis with python about array slicing.
+3. Exploratory Data Analysis and base line model on credit default. Focus data preparation and feature engineering.
+4. 
+
+
+**To Remember :**
+1.check multi-label and santa or no santa classification problem for specific correlations there also check with the chapter saving 
+and loading models in keras for specific changes in implementation.
+2.Revise all these topics on 29/08/2018.
