@@ -41,3 +41,16 @@
 1.check multi-label and santa or no santa classification problem for specific correlations there also check with the chapter saving 
 and loading models in keras for specific changes in implementation.
 2.Revise all these topics on 29/08/2018.
+
+**Date : 22/08/2018 Time : 22:20
+
+**Things I worked on :**
+1. Continued my work with EDA home Credit default problem in kaggle.
+2. Studied 8 chapters from java.
+3. Worked on defaultdict in hackerrank.
+4. ML algorithm from scratch data standardisation non vectorised form.
+5. Saw DL cv nlp projects from stanford masters program.
+6. Joined school for ai kolkata chapter.
+**To Remember**: 1. Sleep exercise and food is equally important in learning.
+2. Be more resourceful keep record.
+3. Revised all topics on 30/08/2018.
