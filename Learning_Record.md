@@ -54,3 +54,13 @@ and loading models in keras for specific changes in implementation.
 **To Remember**: 1. Sleep exercise and food is equally important in learning.
 2. Be more resourceful keep record.
 3. Revised all topics on 30/08/2018.
+
+**Date : 27/08/2018 Time : 23:37
+
+**Things I worked on :**
+1. Continued my work with EDA home Credit default problem in kaggle.
+2. ML algorithm from scratch data  on train test split and k fold cross validation.
+
+**To Remember**: 1. I am missing on revision , so add it to the list tomorrow.
+2. Be more resourceful keep record.
+3. Revised all topics on 04/09/2018.
