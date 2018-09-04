@@ -85,3 +85,15 @@ and loading models in keras for specific changes in implementation.
 **To Remember**: 1. I am missing on revision.
 3. Revised all topics on 11/09/2018.Slow down on revision as I might not have a very good 
 mental condition to learn or revise as of today.
+
+**Date : 04/09/2018 Time : 22:27
+
+**Things I worked on :**
+1. Completed Linear Regression from scratch on a real world data.
+2. Checked the multi-channel CNN model for sentiment analysis.
+3. Worked on image processing (pixel manipulation in openCV and numpy).
+
+**To Remember**: 1. I am missing on revision.
+3. Revised all topics on 11/09/2018.Slow down on revision as I might not have a very good 
+mental condition to learn or revise as of today.
+
