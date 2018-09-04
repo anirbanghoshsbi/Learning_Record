@@ -75,3 +75,13 @@ and loading models in keras for specific changes in implementation.
 **To Remember**: 1. I am missing on revision , so add it to the list tomorrow.
 2. Be more resourceful keep record.
 3. Revised all topics on 05/09/2018.
+
+**Date : 03/09/2018 Time : 11:30
+
+**Things I worked on :**
+1. Completed a text generation using LSTM project in keras.
+2. ML algorithm from scratch data  on   Linear Regression.
+
+**To Remember**: 1. I am missing on revision.
+3. Revised all topics on 11/09/2018.Slow down on revision as I might not have a very good 
+mental condition to learn or revise as of today.
