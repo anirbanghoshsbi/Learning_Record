@@ -113,3 +113,17 @@ mental condition to learn or revise as of today.
 ( I will implement this by today evening)...
 Along with this a revision of the work being done( I have revised a lot of NLP in the last few days, 
 it should now be the focus that I start CV).
+
+
+**Date : 06/09/2018 Time : 23:22
+
+**Things I worked on :**
+1. Worked on Linear Regression with multiple features (non-vectorised).
+2. Read about the paper "Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation".
+3. Understood what it means by interpolation and its variants : sinlge frame and variable length multi-frame video interpolation.
+
+
+**To Remember**: 
+1. Complete reading the paper by the weekend.
+2. Come up with an implementation by this weekend (basic).
+3. 30+30 : ML and python time daily for 30 minutes each.
