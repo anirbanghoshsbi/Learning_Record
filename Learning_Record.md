@@ -97,3 +97,19 @@ mental condition to learn or revise as of today.
 3. Revised all topics on 11/09/2018.Slow down on revision as I might not have a very good 
 mental condition to learn or revise as of today.
 
+**Date : 05/09/2018 Time : 24:00
+
+**Things I worked on :**
+1. Went through a worked example of sentiment analysis.
+
+
+**To Remember**: 
+1. The most learning efficieny comes from solving a kaggle kernel a week.
+2. Doing ML related work for 30 minutes (from scratch).
+3. Working on one problem on hacker rank a day. (python)
+4. Study for 30 minutes (either NLP/CV).
+5. Work on a project for a certain time...
+
+( I will implement this by today evening)...
+Along with this a revision of the work being done( I have revised a lot of NLP in the last few days, 
+it should now be the focus that I start CV).
