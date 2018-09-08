@@ -138,5 +138,7 @@ b) Chalked a plan to tackle the project.
     @ 2.Next get images from these videos.
     @ 3. Do Data Augmentation
     @ 4. Create the baseline model using unet.
+    
+    
 **To Remember**: 
 Nothing on this today... Take a break buddy...
