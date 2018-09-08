@@ -127,3 +127,16 @@ it should now be the focus that I start CV).
 1. Complete reading the paper by the weekend.
 2. Come up with an implementation by this weekend (basic).
 3. 30+30 : ML and python time daily for 30 minutes each.
+
+**Date : 07/09/2018 Time : 24:00
+
+**Things I worked on :**
+Project 01 :"Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation"
+a) Did literature survey.
+b) Chalked a plan to tackle the project.
+    @ 1. Plan to get videos from Internet(youtube).
+    @ 2.Next get images from these videos.
+    @ 3. Do Data Augmentation
+    @ 4. Create the baseline model using unet.
+**To Remember**: 
+Nothing on this today... Take a break buddy...
