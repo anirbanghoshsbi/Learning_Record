@@ -142,3 +142,16 @@ b) Chalked a plan to tackle the project.
     
 **To Remember**: 
 Nothing on this today... Take a break buddy...
+
+**Date : 16/09/2018 Time : 21:48
+
+**Things I worked on :**
+Things were not good on personal front , did not put full effort in work but then still then I tried coding for 30 mins everyday.
+
+However , today , I worked more effectively :
+1. Started the Advanced Natural Language Processing Project. ( This is a detour but I would take it go get back in groove.)
+2. Worked on python coding skills esp.  learning datetime module.
+3. Created a Plan to improve my AI skills month on month basis , the plan exists at my trello board.
+    
+**To Remember**: 
+This also will pass...
