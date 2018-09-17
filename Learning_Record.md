@@ -155,3 +155,11 @@ However , today , I worked more effectively :
     
 **To Remember**: 
 This also will pass...
+
+**Date : 17/09/2018 Time : 22:45
+
+**Things I worked on :**
+1. Completed Week One Note taking in NLP.(Learnt a lot).
+    
+**To Remember**: 
+Finish Week Two tomorrow.
