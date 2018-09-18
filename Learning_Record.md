@@ -163,3 +163,12 @@ This also will pass...
     
 **To Remember**: 
 Finish Week Two tomorrow.
+
+**Date : 18/09/2018 Time : 22:43
+
+**Things I worked on :**
+1. Completed Week Two Note taking in NLP.(Learnt a lot).
+2. Also did some literature survey for the project I am on.
+    
+**To Remember**: 
+1. Take things slowly. It takes time to acomplish goals , especially when the goals are a bit fuzzy.
