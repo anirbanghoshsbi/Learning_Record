@@ -172,3 +172,16 @@ Finish Week Two tomorrow.
     
 **To Remember**: 
 1. Take things slowly. It takes time to acomplish goals , especially when the goals are a bit fuzzy.
+
+
+**Date : 19/09/2018 Time : 24:00
+
+**Things I worked on :**
+1. Completed Week Three Note taking in NLP.(Learnt a lot).Started with week four , this is hard and I am going to take it slowly.
+2. Completed my daily python coding at hackerrank.
+    
+**To Remember**: 
+1. 30 minutes a day for python
+2. 30 minutes a day for pandas/datacamp  questions.
+3. One Kaggle Competition a month.
+4. Data-Structures and Algorithms.
