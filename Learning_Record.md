@@ -185,3 +185,17 @@ Finish Week Two tomorrow.
 2. 30 minutes a day for pandas/datacamp  questions.
 3. One Kaggle Competition a month.
 4. Data-Structures and Algorithms.
+
+
+**Date : 20/09/2018 Time : 24:00
+
+**Things I worked on :**
+1. Week four started and is slowly progressing.
+2. Completed my daily python coding at hackerrank.
+3. Took MIT theory notes on python programming language.
+    
+**To Remember**: 
+1. 30 minutes a day for python
+2. 30 minutes a day for pandas/datacamp  questions.
+3. One Kaggle Competition a month.
+4. Data-Structures and Algorithms.
