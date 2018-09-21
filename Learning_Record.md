@@ -199,3 +199,15 @@ Finish Week Two tomorrow.
 2. 30 minutes a day for pandas/datacamp  questions.
 3. One Kaggle Competition a month.
 4. Data-Structures and Algorithms.
+
+**Date : 21/09/2018 Time : 22:400
+
+**Things I worked on :**
+1. Worked on the image interpolation case study.
+2. Completed my daily python coding at hackerrank.
+3. Went through some NLP codes.
+    
+**To Remember**: 
+1. Tomorrow I need to complete part of the NLP week 4 theory.
+2. Work on my python skills : hackerrank 30 minutes.
+3. Work on creating a pseudocode on Superslomo.
