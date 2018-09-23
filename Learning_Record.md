@@ -228,3 +228,15 @@ Finish Week Two tomorrow.
 5. Friday and Saturday for Coding.[
 6. Sunday for Revision of what I did till Saturday.]
 7. On a day-to-day basis look to put _atleast four hours a day_.
+
+
+**Date : 22/09/2018 Time :24:00
+
+**Things I worked on :**
+1. Revised python coding
+2. Revised the NLP week to week3 
+3. Went through a coding problem to generate a new word for given word.(not completed , expect to complete it by tomorrow).
+    
+**To Remember**: 
+1. Take Care of Health.
+2. Work to improve my Coding Skills and my Skills in ML , NLP , CV etc.
