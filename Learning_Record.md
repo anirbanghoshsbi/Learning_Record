@@ -211,3 +211,20 @@ Finish Week Two tomorrow.
 1. Tomorrow I need to complete part of the NLP week 4 theory.
 2. Work on my python skills : hackerrank 30 minutes.
 3. Work on creating a pseudocode on Superslomo.
+
+
+**Date : 22/09/2018 Time :24:00
+
+**Things I worked on :**
+1. Did a little revision on Coding esp. with respect to datascience.
+2. Revised the work on NLP in the last week.
+3. Completed part of the week 4 for nlp , expect to complete by today.
+    
+**To Remember**: 
+1. Work on python on Monday's.
+2. Work on CV/NLP on Tuesday's.
+3.Work on CV/NLP on Wednesday's.
+4. Work on ML on Thursday's.
+5. Friday and Saturday for Coding.[
+6. Sunday for Revision of what I did till Saturday.]
+7. On a day-to-day basis look to put _atleast four hours a day_.
