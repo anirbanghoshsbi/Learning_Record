@@ -240,3 +240,15 @@ Finish Week Two tomorrow.
 **To Remember**: 
 1. Take Care of Health.
 2. Work to improve my Coding Skills and my Skills in ML , NLP , CV etc.
+
+
+**Date : 23/09/2018 Time :24:00 till 26-09-2018
+
+**Things I worked on :**
+1. Revised python coding
+2. Coded a Multi-Channel CNN for sentence classification 
+3. Went through the code for Super Slow-Motion Generation of Intermediate Images by interpolation.
+    
+**To Remember**: 
+1. Update daily.
+2. Work on ML coding tomorrow.
